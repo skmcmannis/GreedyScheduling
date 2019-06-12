@@ -2,7 +2,6 @@
 # terminal. Uses a greedy algorithm to select the activity that is last to start from the activities
 # remaining to be scheduled.
 #Author: Shawn McMannis
-#CS 325 Analysis of Algorithms
 #Last mod date: 4/27/19
 
 from __future__ import print_function
